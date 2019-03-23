@@ -1,5 +1,3 @@
-# angular-7-registration-login-example
+# Data Cleaning Front APP
 
-Angular 7 User Registration and Login Example with Angular CLI
-
-Full tutorial with example available at http://jasonwatmore.com/post/2018/10/29/angular-7-user-registration-and-login-example-tutorial
+Clean an input file from duplicate and corrupted data.
